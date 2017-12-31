@@ -25,6 +25,9 @@ const DrawerNav = DrawerNavigator(
   },
   {
     initialRouteName: "StackNav",
+    drawerOpenRoute:'DrawerOpen',
+    drawerCloseRoute:'DrawerClose',
+    drawerToggleRoute:'DrawerToggle',
     drawerWidth: deviceWidth-75,
     contentOptions: {
       activeTintColor: "#e91e63"
