@@ -6,6 +6,15 @@ A React Native app based on the Twitter Android app, containing three screens:
 
 
 Native Base, an open source component library for React Native, has also been used. React Navigation and react-native-vector-icons have also been used.
+
+## Screenshots
+<img src="https://github.com/niveditak7/TwitterApp/blob/master/screenshots/Timeline.png" height="350"
+ width="200">  <img src="https://github.com/niveditak7/TwitterApp/blob/master/screenshots/Search.png" height="350"
+ width="200">  <img src="https://github.com/niveditak7/TwitterApp/blob/master/screenshots/SearchOnClick.png" height="350" width="200">   <img src="https://github.com/niveditak7/TwitterApp/blob/master/screenshots/DrawerPanelExpanded.png" height="350"
+ width="200">  <img src="https://github.com/niveditak7/TwitterApp/blob/master/screenshots/DrawerPanelCollapsed.png" height="350" width="200"> 
+
+
+
 ## Getting Started
 ### Installing React Native
 Check out [this](https://facebook.github.io/react-native/docs/getting-started.html) link to install React Native on your machine. 
